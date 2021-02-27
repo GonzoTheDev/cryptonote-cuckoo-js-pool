@@ -27,7 +27,7 @@
 	"poolServer": {
 		"enabled": true,
 		"clusterForks": 1,
-		"poolAddress": "Tubed6hQPLtAWx6Dw3WJckd1RBGb8RA5BZZ5MzDqgdEQWB5bHriuEbj9bCSjXvCWJuFNHkdFRyxcx9vvi4s6bqoyAKEdAYGemDx",
+		"poolAddress": "cashKwfvDUo6NDikAoWYDY1FfpwydZ5uyDH5zjpZwLwqXHxWwt8S3MRUitNW2LLgCgKRqeoJFrNZ6fKrtirJfQCy6FwS4Scz2z",
 		"intAddressPrefix": 31572,
 		"subAddressPrefix": 10070,
 		"blockRefreshInterval": 200,

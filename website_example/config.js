@@ -1,15 +1,15 @@
-var api = "https://mining.bittube.app:8124";
+var api = "https://mining.crypt-o-coin.cash:8124";
 
 var coinDecimalPlaces = 2;
 
-var email = "info@bittube.app";
-var telegram = "https://t.me/bittubeapp";
-var discord = "https://discordapp.com/invite/fBNQRQV";
+var email = "info@crypt-o-coin.cash";
+var telegram = "#";
+var discord = "https://discord.gg/upPCtgcMJu";
 
 var marketCurrencies = ["{symbol}-BTC"];
 
-var blockchainExplorer = "http://185.82.20.213:6660/block/{id}";
-var transactionExplorer = "http://185.82.20.213:6660/tx/{id}";
+var blockchainExplorer = "http://explorer.crypt-o-coin.cash/block/{id}";
+var transactionExplorer = "http://explorer.crypt-o-coin.cash/tx/{id}";
 
 var themeCss = "themes/light.css";
 var themeCssDark = "themes/dark.css";

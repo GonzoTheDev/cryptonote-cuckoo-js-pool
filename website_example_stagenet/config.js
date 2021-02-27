@@ -1,10 +1,10 @@
-var api = "https://mining.bittube.app:8123";
+var api = "https://mining.crypt-o-coin.cash:8123";
 
 var coinDecimalPlaces = 2;
 
-var email = "info@bittube.app";
-var telegram = "https://t.me/bittubeapp";
-var discord = "https://discordapp.com/invite/fBNQRQV";
+var email = "info@crypt-o-coin.cash";
+var telegram = "#";
+var discord = "https://discord.gg/upPCtgcMJu";
 
 var marketCurrencies = ["{symbol}-BTC"];
 
